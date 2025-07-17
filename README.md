@@ -48,7 +48,7 @@ Getting Started
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/my-blog.git
+git clone https://github.com/maurice1-afk/my-blog.git
 cd my-blog
 
 
