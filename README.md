@@ -1,7 +1,7 @@
 # my-blog Documentation
 My Personal Blog
 
-A clean, responsive multi-page blog website built with **HTML5**, **CSS3**, and **JavaScript**, and deployed using GitHub Pages / Netlify / Vercel.
+A clean, responsive multi-page blog website built with **HTML5**, **CSS3**, and **JavaScript**, and deployed using Vercel.
 
 
 
@@ -26,7 +26,7 @@ Deployed to the web
 HTML5 -Semantic structure
 CSS3– Styling and responsive design
 JavaScript – Interactivity and theme persistence
-GitHub Pages – Deployment
+Vercel – Deployment
 
 
 
@@ -45,10 +45,6 @@ my-blog/
 
 Getting Started
 
-Clone the repository:
 
-```bash
-git clone https://github.com/maurice1-afk/my-blog.git
-cd my-blog
 
 
